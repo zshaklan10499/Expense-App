@@ -1,0 +1,10 @@
+.expenses{
+    max-height:fit-content;
+    width: 600px;
+    padding:20px;
+    margin:auto;
+    display:flex;
+    flex-direction: column;
+    border:2px solid #000;
+    background-color: rgb(31, 31, 31);
+}
